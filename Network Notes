@@ -1,6 +1,8 @@
 switch - is used to connect devices within a local network
 bridge - connects multiple LAN segments
 gateway - connects different networks together, facilitating communication between them
+router - is a device that connects different networks together, directing traffic between them and allowing devices to communicate with each other. 
+It acts as a traffic controller, determining the most efficient path for data to travel from one network to another.
 
 1 mbps - 10^6 bits/s (1000000)
 1 gbps - 10^9 bits/s (1000000000)
