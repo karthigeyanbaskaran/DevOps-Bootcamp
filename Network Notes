@@ -1,3 +1,7 @@
 switch - is used to connect devices within a local network
 bridge - connects multiple LAN segments
 gateway - connects different networks together, facilitating communication between them
+
+1 mbps - 10^6 bits/s (1000000)
+1 gbps - 10^9 bits/s (1000000000)
+1 kbps - 1000 bits/s 
