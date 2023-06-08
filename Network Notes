@@ -1,1 +1,3 @@
-
+switch - is used to connect devices within a local network
+bridge - connects multiple LAN segments
+gateway - connects different networks together, facilitating communication between them
