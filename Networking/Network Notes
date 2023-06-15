@@ -1,4 +1,5 @@
 switch - is used to connect devices within a local network
+       - it connect one n/w interface to one another
 bridge - connects multiple LAN segments
 gateway - connects different networks together, facilitating communication between them
 router - is a device that connects different networks together, directing traffic between them and allowing devices to communicate with each other. 
